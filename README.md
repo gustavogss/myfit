@@ -9,7 +9,7 @@
 - StyleComponents
 - Typescript
 
-## Como utilizar :runner:
+## Como utilizar 🔌
 - Clonar o repositório
 - Instalar as dependências com yarn install
 - Dentro da pasta do projeto digite expo start para rodar o projeto
