@@ -16,4 +16,5 @@
 
 ## Aplicativo :iphone:
 
-![Aplicativo](https://gustavosouza.dev.br/wp-content/uploads/2022/06/myfit2.png)
+![2](https://user-images.githubusercontent.com/20332960/216518213-39247482-aeee-47b9-a21e-ed6268393f36.png)
+
